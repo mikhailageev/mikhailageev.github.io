@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "62QHGWVLXD.com.forasoft.janson-media.dev",
-        "paths": [
-          "*"
-        ]
+        "paths": ["NOT /e/*", "*","/"]
       }
     ]
   }
