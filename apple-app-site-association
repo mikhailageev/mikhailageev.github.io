@@ -4,16 +4,8 @@
     "details": [
       {
         "appID": "62QHGWVLXD.com.forasoft.janson-media.dev",
-        "components": [ // iOS14
-          {
-            "/": "<URL_PATH>",
-            "comment": "Matches any URL whose path starts with URL_PATH and instructs the system not to open it as a universal link"
-          }
-        ],
-        "paths": [ // pre iOS14
-          "NOT \/api\/*",
-          "NOT \/",
-          "<URL_PATH>"
+        "paths": [
+          "*"
         ]
       }
     ]
