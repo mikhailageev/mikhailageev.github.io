@@ -5,7 +5,7 @@
       {
         "appID": "62QHGWVLXD.com.forasoft.janson-media.dev",
         "paths": [
-          "index.html"
+          "*"
         ]
       }
     ]
